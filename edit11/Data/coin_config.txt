@@ -1,6 +1,6 @@
 symbol,ema1,ema2,ema3,profitPercent,lossPercent,rsiHigh,rsiLow,trailingProfit,threshold,tradeWith,macdThreshold,emaThreshold
-XBTUSD,9,12,200,0.1,0.3,70,30,True,1,1,100,0.5
-XRPUSD,25,50,100,0.25,1,70,30,True,5,1,50,0.5
+XBTUSD,9,12,200,0.001,0.001,70,30,True,1,1,100,0.0005
+XRPUSD,9,12,200,0.1,0.17,70,30,True,1,1,100,0.5
 BCHUSD,25,50,100,0.25,2,70,30,True,5,1,50,0.5
 ETHUSD,25,50,100,0.25,1,70,30,True,5,1,50,0.5
 ADAH21,25,50,100,0.25,1,70,30,True,5,1,20,0.5
