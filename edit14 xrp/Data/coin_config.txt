@@ -1,2 +1,2 @@
 symbol,ema1,ema2,ema3,profitPercent,lossPercent,rsiHigh,rsiLow,trailingProfit,threshold,tradeWith,macdThreshold,emaThreshold
-XRPUSD,6,12,200,0.0001,0.0002,0.5,30,True,1,1,100,0.0005
+XRPUSD,6,12,200,0.001,0.004,0.5,30,True,1,1,100,0.0005
