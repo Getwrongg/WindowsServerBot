@@ -1,0 +1,2 @@
+symbol,ema1,ema2,ema3,profitPercent,lossPercent,rsiHigh,rsiLow,trailingProfit,threshold,tradeWith,macdThreshold,emaThreshold
+XBTUSD,6,12,200,0.5,1,70,30,True,1,1,100,0.2
